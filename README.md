@@ -44,12 +44,11 @@ A few things I like to do (other than coding):
 I'm currently putting most of my spare time into a lightweight clone of Airbnb.
 
 Still a work in progress but I have finished the backend:
-  • view all spots
-  • Get Spots
-  • Create, update and delete users
-  • Create, update and delete spots & images
-  • Create, update and delete bookings
-  • Create, update and delete reviews
+  • Get all spots
+  • Get all spots by user
+  • Get all bookings by spot or user
+  • Get all reviews by Spot & user
+  • Create, update and delete users, spots, images, bookings reviews
 ```
   </div>
 </div>
