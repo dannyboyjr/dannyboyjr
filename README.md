@@ -37,8 +37,7 @@ A few things I like to do (other than coding):
 <div align=center>
 <h2><a href=https://airbnb-clone-dankimball.herokuapp.com/api/spots/>Current Project</a></h2>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeWhatThouWilt&repo=coffeehouse&theme=github_dark)](https://github.com/CodeWhatThouWilt/coffeehouse) -->
-[![Readme Card] https://github.com/dannyboyjr/Airbnb.git
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dannyboyjr&repo=Airbnb&theme=github_dark)](https://github.com/dannyboyjr/Airbnb.git)
   <div align=left>
 
 ```
