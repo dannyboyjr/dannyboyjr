@@ -11,14 +11,6 @@ A few things I like to do (other than coding):
   • Sales (Crazy... I know) 
   ```
   
-  <h2 align=center> Technologies </h2>
-  <div align=center>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  
 <h2 align=center>Technologies</h2>
 <div align=center>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style=width:50px />
@@ -30,15 +22,12 @@ A few things I like to do (other than coding):
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style=width:50px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style=width:50px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style=width:50px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" style=width:50px;background-color:#ffffff />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style=width:50px /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style=width:50px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style=width:50px;background-color:#ffffff />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style=width:50px;background-color:#ffffff />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style=width:50px />
   
-  
-  
+  div align=center>
+<h2>Stats</h2>
+  </br>
   
   [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyboyjr)](https://github.com/dannyboyjr/github-readme-stats)
 
