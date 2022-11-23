@@ -1,6 +1,6 @@
 # dannyboyjr
 
-A few things I like to do (other than coding):
+<h1> A few things I like to do (other than coding): </h1>
   • Read. A lot. Mostly nonfiction.
   • Strength and conditioning training
   • Skiing 
