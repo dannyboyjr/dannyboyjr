@@ -5,7 +5,7 @@
 
 ```
 A few things I like to do (other than coding): 
-  • Read. A lot. I like both fiction & nonfiction.
+  • Reading. like both fiction & nonfiction.
   • Golf
   • Skiing 
   • Sales (Crazy... I know) 
