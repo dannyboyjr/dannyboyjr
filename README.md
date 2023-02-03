@@ -8,7 +8,6 @@ A few things I like to do (other than coding):
   • Reading. like both fiction & nonfiction.
   • Golf
   • Skiing 
-  • Sales (Crazy... I know) 
   ```
   
 <h2 align=center>Technologies</h2>
@@ -35,7 +34,7 @@ A few things I like to do (other than coding):
 </div>
 
 <div align=center>
-<h2><a href=https://airbnb-clone-dankimball.herokuapp.com/api/spots/>Current Project</a></h2>
+<h2><a href=http://airbnb-clone-134r.onrender.com/>Current Project</a></h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dannyboyjr&repo=Airbnb&theme=github_dark)](https://github.com/dannyboyjr/Airbnb.git)
   <div align=left>
