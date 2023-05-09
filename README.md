@@ -46,7 +46,8 @@ A few things I like to do (other than coding):
   <div align=left>
 
 ```
-I'm currently dedicating most of my spare time to what I call Habit Labs. It's an app where if you don't complete your habit or to-do on time, your credit card is charged (you choose the amount). It can also be used to break bad habits. The idea is to use loss aversion to improve yourself. 
+I'm currently dedicating most of my spare time to what I call Habit Labs. It's an app where if you don't complete your habit or to-do on time, 
+your credit card is charged (you choose the amount charged). It can also be used to break bad habits. The idea is to use loss aversion to improve yourself. 
 
 Current Features
 • CRUD features for Users, Habits, To-dos, and Journals
