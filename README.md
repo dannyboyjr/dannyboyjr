@@ -41,18 +41,21 @@ A few things I like to do (other than coding):
 <div align=center>
 <h2><a href=http://airbnb-clone-134r.onrender.com/>Current Project</a></h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dannyboyjr&repo=Airbnb&theme=github_dark)](https://github.com/dannyboyjr/Airbnb.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dannyboyjr&repo=Airbnb&theme=github_dark)](https://habitlabs.onrender.com/)
   <div align=left>
 
 ```
-I'm currently putting most of my spare time into a lightweight clone of Airbnb.
+I'm currently dedicating most of my spare time to what I call Habit Labs. It's an app where if you don't complete your habit or to-do on time, your credit card is charged (you choose the amount). It can also be used to break bad habits. The idea is to use loss aversion to improve yourself. 
 
-Still a work in progress but I have finished the backend:
-  • Get all spots
-  • Get all spots by user
-  • Get all bookings by spot or user
-  • Get all reviews by Spot & user
-  • Create, update and delete users, spots, images, bookings reviews
+Current Features
+• CRUD features for Users, Habits, To-dos, and Journals
+• Live billing via Stripe integration
+• Daily, weekly, monthly, and all-time stats
+
+Roadmap
+• Cron job to bill at midnight of your timezone if habit or task is incomplete
+• Add friends and let your money go to them or to anti-charities
+• Custom due dates for recurring habits (specific days of the week, weekly, monthly)
 ```
   </div>
 </div>
