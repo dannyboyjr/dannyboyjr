@@ -39,9 +39,10 @@ A few things I like to do (other than coding):
 </div>
 
 <div align=center>
-<h2><a href=http://airbnb-clone-134r.onrender.com/>Current Project</a></h2>
+<h2><a href=[http://airbnb-clone-134r.onrender.com](https://habitlabs.onrender.com/)/>Current Project</a></h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dannyboyjr&repo=Airbnb&theme=github_dark)](https://habitlabs.onrender.com/)
+[![Readme Card](https://habitlabs.onrender.com/static/media/habitlabs.6797121d.png)](https://habitlabs.onrender.com/)
+
   <div align=left>
 
 ```
