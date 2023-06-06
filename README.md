@@ -1,4 +1,3 @@
-# dannyboyjr
 <h1 align="center"> 👋 Hi there! i'm Dan </h1>
 
 <h3 align="center"> I'm a SWE grad </h3>
