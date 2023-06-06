@@ -7,7 +7,7 @@
 
 * i'm currently learning Docker & AWS
 * i'm an avid reader, my favorite author being JRR Tolkien
-* i'm enjoy the outdoors + fitness
+* i enjoy the outdoors + fitness
 * i found out that i'm good at sales but am more fullfilled building things
 * i sometimes tinker around with [3d printers](https://www.youtube.com/watch?v=X_VulgoZMGM) and arduinos
 <!-- * i created my [portfolio website]() from scratch  -->
