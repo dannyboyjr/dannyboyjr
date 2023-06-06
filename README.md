@@ -1,14 +1,16 @@
 # dannyboyjr
+<h1 align="center"> 👋 Hi there! i'm Dan </h1>
 
+<h3 align="center"> I'm a SWE grad </h3>
 
-<h2 align=center> About Me </h2>
+## about me
 
-```
-A few things I like to do (other than coding): 
-  • Reading. like both fiction & nonfiction.
-  • Golf
-  • Skiing 
-  ```
+* i'm currently learning Docker & AWS
+* i'm an avid reader, my favorite author being JRR Tolkien
+* i'm enjoy the outdoors + fitness
+* i found out that i'm good at sales but am more fullfilled building things
+* i sometimes tinker around with [3d printers](https://www.youtube.com/watch?v=X_VulgoZMGM) and arduinos
+<!-- * i created my [portfolio website]() from scratch  -->
   
 <h2 align=center>Technologies</h2>
 <div align=center>
