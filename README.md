@@ -28,16 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style=width:50px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style=width:75px />
 
-  
-  <div align=center>
-  
-<h2>Stats</h2>
-  </br>
-  
-  [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyboyjr)](https://github.com/dannyboyjr/github-readme-stats)
-
- </br>
-</div>
 
 <div align=center>
 <h2><a href=[http://airbnb-clone-134r.onrender.com](https://habitlabs.onrender.com/)/>Current Project</a></h2>
