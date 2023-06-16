@@ -37,6 +37,9 @@
   <div align=left>
 
 ```
+Check out my project!
+https://habitlabs.onrender.com/login
+
 I'm currently dedicating most of my spare time to what I call Habit Labs. It's an app where if you don't complete your habit or to-do on time, 
 your credit card is charged (you choose the amount charged). It can also be used to break bad habits. The idea is to use loss aversion to improve yourself. 
 
