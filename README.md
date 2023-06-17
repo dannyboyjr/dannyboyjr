@@ -4,11 +4,11 @@
 
 ## about me
 
-* i'm currently learning Docker & AWS
-* i'm an avid reader, my favorite author being JRR Tolkien
-* i enjoy the outdoors + fitness
-* i found out that i'm good at sales but am more fullfilled building things
-* i sometimes tinker around with [3d printers](https://www.youtube.com/watch?v=X_VulgoZMGM) and arduinos
+* I'm currently playing around with Docker. Check out my [discord-clone](http://144.126.215.58:3000/) that I containzerized and hosted using a Digital Ocean Droplet.
+* I'm an avid reader, my favorite author being JRR Tolkien
+* I enjoy skiing + fitness + golf
+* I found out that i'm good at sales but am more fullfilled building things
+* I sometimes tinker around with [3d printers](https://www.youtube.com/watch?v=X_VulgoZMGM) and arduinos
 <!-- * i created my [portfolio website]() from scratch  -->
   
 <h2 align=center>Technologies</h2>
