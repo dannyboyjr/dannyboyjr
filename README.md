@@ -1,10 +1,10 @@
-<h1 align="center"> 👋 Hi there! i'm Dan </h1>
+<h1 align="center"> 👋 Hi there! I'm Dan </h1>
 
 <h3 align="center"> I'm a SWE grad </h3>
 
 ## about me
 
-* I'm currently playing around with Docker. Check out my [discord-clone](http://144.126.215.58:3000/) that I containzerized and hosted using a Digital Ocean Droplet.
+* I'm currently playing around with Docker. Check out my [discord-clone](http://144.126.215.58:3000/)  that I've containerized and hosted using a DigitalOcean Droplet
 * I'm an avid reader, my favorite author being JRR Tolkien
 * I enjoy skiing + fitness + golf
 * I found out that i'm good at sales but am more fullfilled building things
