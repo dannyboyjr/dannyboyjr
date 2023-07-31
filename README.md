@@ -1,10 +1,6 @@
-<h1 align="center"> 👋 Hi there! I'm Dan </h1>
 
-<h3 align="center"> I'm a SWE grad </h3>
 
-## about me
-
-* Check out my [discord-clone](http://144.126.215.58:3000/)  that I've containerized and hosted using a DigitalOcean Droplet
+* Check out my [iscord-clone](http://144.126.215.58:3000/)  that I've containerized and hosted using a DigitalOcean Droplet
   
 <h2 align=center>Technologies</h2>
 <div align=center>
