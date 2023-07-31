@@ -4,12 +4,7 @@
 
 ## about me
 
-* I'm currently playing around with Docker. Check out my [discord-clone](http://144.126.215.58:3000/)  that I've containerized and hosted using a DigitalOcean Droplet
-* I'm an avid reader, my favorite author being JRR Tolkien
-* I passionate about skiing + fitness + golf
-* I'm good at sales and enjoy building things
-* I sometimes tinker around with [3d printers](https://www.youtube.com/watch?v=X_VulgoZMGM) and arduinos
-<!-- * i created my [portfolio website]() from scratch  -->
+* Check out my [discord-clone](http://144.126.215.58:3000/)  that I've containerized and hosted using a DigitalOcean Droplet
   
 <h2 align=center>Technologies</h2>
 <div align=center>
